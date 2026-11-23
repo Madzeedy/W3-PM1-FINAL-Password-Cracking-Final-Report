@@ -1,4 +1,4 @@
-Cybersecurity &amp; Ethical Hacking Internship – Networkwalks
+**Cybersecurity &amp; Ethical Hacking Internship – Networkwalks**
 
 **Project Overview**
 
