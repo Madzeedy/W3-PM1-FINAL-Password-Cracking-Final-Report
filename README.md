@@ -1,4 +1,3 @@
-<img width="953" height="992" alt="image" src="https://github.com/user-attachments/assets/398c4a4d-afde-4512-b77d-91ea71eed602" /># W3-PM1-FINAL-Password-Cracking-Final-Report
 Cybersecurity &amp; Ethical Hacking Internship – Networkwalks
 
 **Project Overview**
@@ -36,7 +35,7 @@ The tool generated a hash that could be used for password-cracking activities.
 
 Figure 1: Hash extracted using the Networkwalks Hash Calculator.
 
-
+<img width="953" height="992" alt="image" src="https://github.com/user-attachments/assets/398c4a4d-afde-4512-b77d-91ea71eed602" /># W3-PM1-FINAL-Password-Cracking-Final-Report
 
 2. Testing the Extracted Hash
 
@@ -66,9 +65,12 @@ I then located and captured the flag provided in the PDF.
 
 Captured Flag:
 
-nw{cybersecurity_flag_captured_2608}
+nw{networkwalks_flag_260821_1}
 
 Figure 3: Successfully opening the protected PDF and capturing the flag.
+
+<img width="1048" height="857" alt="PPPDF" src="https://github.com/user-attachments/assets/3a8d48a5-18d5-4486-8650-934f5992ee3f" />
+
 
 Key Learning Outcomes
 
